@@ -29,12 +29,12 @@ Summary:	Free OpenGL implementation - XvMC drivers
 Summary(pl.UTF-8):	Wolnodostępna implementacja standardu OpenGL - sterowniki XvMC
 Name:		Mesa-libXvMC
 # 22.2.x were the last containing libXvMC drivers
-Version:	22.2.4
+Version:	22.2.5
 Release:	1
 License:	MIT (core) and others - see license.html file
 Group:		X11/Libraries
 Source0:	https://archive.mesa3d.org/mesa-%{version}.tar.xz
-# Source0-md5:	a258a3d590d76bc1ff89a204f063e3b8
+# Source0-md5:	67b5eb00f77aa34ae5d0582ab8781d65
 URL:		https://www.mesa3d.org/
 BuildRequires:	bison > 2.3
 BuildRequires:	elfutils-devel
